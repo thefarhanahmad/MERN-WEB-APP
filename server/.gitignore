@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Editor-specific files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+
+# Build files
+/build/
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Compiled binary addons
+/build/Release
